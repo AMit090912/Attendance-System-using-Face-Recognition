@@ -1,10 +1,10 @@
-# 🧑‍💼 Attendance System using Face Recognition
+# Attendance System using Face Recognition
 
 A smart attendance system that uses face recognition to automatically mark attendance via webcam. It helps reduce manual errors, saves time, and prevents proxy attendance.
 
 ---
 
-## ⚙️ Features
+## Features
 
 - 📸 Detects faces in real time using webcam  
 - 🧑‍🔬 Recognizes registered faces from stored images  
@@ -14,7 +14,7 @@ A smart attendance system that uses face recognition to automatically mark atten
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 Install required packages:
 
